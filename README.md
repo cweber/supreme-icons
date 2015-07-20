@@ -9,3 +9,7 @@ Sotomayor
 
 <img width="200px" src="https://rawgit.com/cweber/supreme-icons/master/svg/sotomayor.svg">
 
+Scalia
+
+<img width="200px" src="https://rawgit.com/cweber/supreme-icons/master/svg/scalia.svg">
+

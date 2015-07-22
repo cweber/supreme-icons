@@ -13,3 +13,7 @@ Scalia
 
 <img width="200px" src="https://rawgit.com/cweber/supreme-icons/master/svg/scalia.svg">
 
+Roberts
+
+<img width="200px" src="https://rawgit.com/cweber/supreme-icons/master/svg/roberts.svg">
+

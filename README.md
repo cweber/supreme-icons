@@ -17,6 +17,18 @@ Roberts
 
 <img width="200px" src="https://rawgit.com/cweber/supreme-icons/master/svg/roberts.svg">
 
+Thomas
+
+<img width="200px" src="https://rawgit.com/cweber/supreme-icons/master/svg/thomas.svg">
+
+Alito
+
+<img width="200px" src="https://rawgit.com/cweber/supreme-icons/master/svg/alito.svg">
+
+Kagan
+
+<img width="200px" src="https://rawgit.com/cweber/supreme-icons/master/svg/kagan.svg">
+
 Kennedy
 
 <img width="200px" src="https://rawgit.com/cweber/supreme-icons/master/svg/kennedy.svg">

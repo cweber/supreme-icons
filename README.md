@@ -33,3 +33,7 @@ Kennedy
 
 <img width="200px" src="https://rawgit.com/cweber/supreme-icons/master/svg/kennedy.svg">
 
+Breyer
+
+<img width="200px" src="https://rawgit.com/cweber/supreme-icons/master/svg/breyer.svg">
+

@@ -29,3 +29,7 @@ Kagan
 
 <img width="200px" src="https://rawgit.com/cweber/supreme-icons/master/svg/kagan.svg">
 
+Kennedy
+
+<img width="200px" src="https://rawgit.com/cweber/supreme-icons/master/svg/kennedy.svg">
+

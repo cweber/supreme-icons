@@ -19,5 +19,13 @@ Roberts
 
 Kennedy
 
-<img width="200px" src="https://rawgit.com/cweber/supreme-icons/master/svg/kennedy.svg">
+<img width="200px" src="https://rawgit.com/cweber/supreme-icons/master/svg/thomas.svg">
+
+Kennedy
+
+<img width="200px" src="https://rawgit.com/cweber/supreme-icons/master/svg/alito.svg">
+
+Kennedy
+
+<img width="200px" src="https://rawgit.com/cweber/supreme-icons/master/svg/kagan.svg">
 

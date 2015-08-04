@@ -17,15 +17,15 @@ Roberts
 
 <img width="200px" src="https://rawgit.com/cweber/supreme-icons/master/svg/roberts.svg">
 
-Kennedy
+Thomas
 
 <img width="200px" src="https://rawgit.com/cweber/supreme-icons/master/svg/thomas.svg">
 
-Kennedy
+Alito
 
 <img width="200px" src="https://rawgit.com/cweber/supreme-icons/master/svg/alito.svg">
 
-Kennedy
+Kagan
 
 <img width="200px" src="https://rawgit.com/cweber/supreme-icons/master/svg/kagan.svg">
 
